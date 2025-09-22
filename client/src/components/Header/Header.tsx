@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
-import avabg from "../../assets/image/ava1.jpg";
+import avabg from "../../assets/image/1_bd.jpg";
 import bgImage from "../../assets/image/header_bg.jpg";
 import { Account } from "../../components/Account/Account";
 import styles from "../Header/Header.module.scss";

@@ -1,6 +1,6 @@
 import { useState } from "react";
+import avabg from "../../assets/image/1_bd.jpg";
 import account_bg from "../../assets/image/3_bg.jpg";
-import avabg from "../../assets/image/ava1.jpg";
 import footer_bg from "../../assets/image/white.jpg";
 import styles from "../Account/Account.module.scss";
 
