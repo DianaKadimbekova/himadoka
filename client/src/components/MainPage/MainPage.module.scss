@@ -1,0 +1,19 @@
+.box {
+  background-color: rgb(247, 224, 228);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-inline: auto;
+}
+
+.main {
+  margin-top: 20px;
+  background-color: rgb(225, 124, 176);
+  display: flex;
+  flex-direction: row;
+  margin-inline: auto;
+  border: solid 1px rgb(50, 27, 31);
+  width: 800px;
+  box-shadow: 5px 5px 5px rgba(52, 25, 36, 0.3),
+              -5px 5px 5px rgba(52, 25, 36, 0.3);
+}
